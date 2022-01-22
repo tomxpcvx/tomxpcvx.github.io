@@ -9,7 +9,7 @@ Replace the following lines:
 *CNAME*:
 
 ```txt
-tomxpcvx.wtf
+tomxpcvx.dev
 ```
 
 *index.html*:
