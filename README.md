@@ -9,7 +9,7 @@ Replace the following lines:
 *CNAME*:
 
 ```txt
-tomxpcvx.dev
+pages.pietsch.earth
 ```
 
 *index.html*:
